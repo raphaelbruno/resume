@@ -14,10 +14,10 @@ Contato: dev.raphaelsa@gmail.com
 
 ## Conhecimentos
 
-* Node.js
 * Java
 * PHP
 * Javascript (es2015+, framworks)
+* Node.js
 * React + Redux
 * Vue.js
 * Angular.js

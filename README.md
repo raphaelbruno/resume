@@ -27,6 +27,7 @@ Contato: dev.raphaelsa@gmail.com
 * Git
 * Scrum
 * Kanban
+* Docker
 * Inglês Técnico
 
 ### Conhecimentos/Interesses Extra

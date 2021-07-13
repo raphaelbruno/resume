@@ -6,7 +6,7 @@ Desenvolvendo soluções para a web desde 2007, comecei desenhando e codificando
 Local: Fortaleza - Ceará | 35 anos
 
 GitHub: https://github.com/raphaelbruno <br />
-Linkedin: https://www.linkedin.com/in/raphael-bruno-alves-de-sá-53665a30 <br />
+Linkedin: https://www.linkedin.com/in/raphael-sá-53665a30 <br />
 Lattes: http://lattes.cnpq.br/0816621286565491
 
 Site: https://raphaelbruno.com.br <br />

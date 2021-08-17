@@ -1,15 +1,15 @@
 
 ## Raphael Bruno Alves de Sá
+Software Engineer Senior - JS | ReactJS
 
 Desenvolvendo soluções para a web desde 2007, comecei desenhando e codificando websites, posteriormente adquiri experiência em Rich Internet Application, foi onde eu conhecer e passei a gostar de desenvolvimento de sistemas e interfaces.
 
 Local: Fortaleza - Ceará | 35 anos
 
 GitHub: https://github.com/raphaelbruno <br />
-Linkedin: https://www.linkedin.com/in/raphael-sá-53665a30 <br />
+Linkedin: https://www.linkedin.com/in/raphaelsa-dev <br />
 Lattes: http://lattes.cnpq.br/0816621286565491
 
-Site: https://raphaelbruno.com.br <br />
 Contato: dev.raphaelsa@gmail.com
 
 ## Conhecimentos
@@ -42,7 +42,7 @@ Contato: dev.raphaelsa@gmail.com
 
 * **Secretaria do Planejamento e Gestão (Home Office)** |
 Analista de Sistemas | Out/2020 - Atual <br />
-(PHP, JS, Oracle, PostgreSQL, Git, Composer, npm).
+(PHP, JS, ReactJS, Oracle, PostgreSQL, Git, Composer, npm).
 
 * **Autônomo (Home Office)** |
 Analista de Sistemas | Dez/2018 - Set/2020 <br />
@@ -54,7 +54,7 @@ Analista de Sistemas | Nov/2017 - Nov/2018 <br />
 
 * **Secretaria Municipal da Educação** |
 Analista de Sistemas | Jan/2014 - Nov/2017 <br />
-(Java, PHP, Oracle, PostgreSQL, Maven, Ibatis).
+(Java, PHP, JS, ReactJS, Oracle, PostgreSQL, Maven, Ibatis).
 
 * **Universidade Federal do Ceará** |
 Analista de Sistemas | Fev/2013 - Dez/2013 <br />
@@ -63,7 +63,7 @@ Projeto: Ambiente Virtual de Aprendizagem Conselhos Escolares <br />
 
 * **Secretaria da Educação do Ceará** |
 Analista de Sistemas | Abr/2010 - Jan/2013 <br />
-(Java, PHP, Action Script 3, Blender 3D, PostgreSQL, Photoshop).
+(Java, PHP, AS3, Blender 3D, PostgreSQL, Photoshop).
 
 * **Avanz** |
 Webdeveloper | Abr/2008 - Mar/2010 <br />

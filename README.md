@@ -99,4 +99,4 @@ JPA e Hibernate
 Animação 3D
 
 * **CEPEP** |
-Maket Eletrônica 3D
+Maquete Eletrônica 3D

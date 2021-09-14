@@ -1,8 +1,6 @@
 
 ## Raphael Bruno Alves de Sá
-Software Engineer Senior - JS | ReactJS
-
-Desenvolvendo soluções para a web desde 2007, comecei desenhando e codificando websites, posteriormente adquiri experiência em Rich Internet Application, foi onde eu conhecer e passei a gostar de desenvolvimento de sistemas e interfaces.
+Software Developer | React · Spring · Laravel
 
 Local: Fortaleza - Ceará | 35 anos
 
@@ -31,49 +29,46 @@ Contato: dev.raphaelsa@gmail.com
 * Inglês Técnico
 
 ### Conhecimentos/Interesses Extra
-* Ambiente Tridimensional
-* Modelagem/Animação 3D
 * Desenvolvimento de Jogos
-* ElectronJS 
-* C++
-* OpenGL
+* Modelagem/Animação 3D
+* Robótica
 
 ## Experiências
 
 * **Secretaria do Planejamento e Gestão (Home Office)** |
-Analista de Sistemas | Out/2020 - Atual <br />
+Senior Software Developer | Out/2020 - Atual <br />
 (PHP, JS, ReactJS, Oracle, PostgreSQL, Git, Composer, npm).
 
 * **Autônomo (Home Office)** |
-Analista de Sistemas | Dez/2018 - Set/2020 <br />
+Senior Software Developer | Dez/2018 - Set/2020 <br />
 (PHP, JS, ReactJS, VueJS, PostgreSQL, Git, Composer, npm).
 
 * **Secretaria da Ouvidoria, Gestão e Transparência** |
-Analista de Sistemas | Nov/2017 - Nov/2018 <br />
+Senior Software Developer | Nov/2017 - Nov/2018 <br />
 (PHP, Oracle, PostgreSQL, Git, Composer).
 
 * **Secretaria Municipal da Educação** |
-Analista de Sistemas | Jan/2014 - Nov/2017 <br />
+Senior Software Developer | Jan/2014 - Nov/2017 <br />
 (Java, PHP, JS, ReactJS, Oracle, PostgreSQL, Maven, Ibatis).
 
 * **Universidade Federal do Ceará** |
-Analista de Sistemas | Fev/2013 - Dez/2013 <br />
+Software Developer | Fev/2013 - Dez/2013 <br />
 Projeto: Ambiente Virtual de Aprendizagem Conselhos Escolares <br />
 (PHP, ActionScript 3, Jogos Interativos).
 
 * **Secretaria da Educação do Ceará** |
-Analista de Sistemas | Abr/2010 - Jan/2013 <br />
+Junior Software Developer | Abr/2010 - Jan/2013 <br />
 (Java, PHP, AS3, Blender 3D, PostgreSQL, Photoshop).
 
 * **Avanz** |
-Webdeveloper | Abr/2008 - Mar/2010 <br />
+Frontend Web Developer | Abr/2008 - Mar/2010 <br />
 (Websites, Flash, Action Script 3, Photoshop, CSS, JS, PHP, MySQL).
 
 * **NeoPrint** |
-Webdesigner | Jun/2007 – Mar/2008 <br />
+Frontend Web Developer | Jun/2007 – Mar/2008 <br />
 (Websites, CSS, JS, Flash, Photoshop, Fireworks).
 
-## Formação
+## Formação Acadêmica
 
 * **FA7** |
 Pós graduação - Engenharia de Software (2014.1 ~ 2016.2)
@@ -81,7 +76,7 @@ Pós graduação - Engenharia de Software (2014.1 ~ 2016.2)
 * **FATENE** |
 Graduação - Analise de Sistemas Web (2008.1 ~ 2012.2)
 
-### Extra
+### Formação Extra
 
 * **Udemy** |
 React + Redux
